@@ -7,11 +7,11 @@ members or found helpful for managing open source projects and offices.
 
 Tools for managing and automating code review processes.
 - [PullApprove](https://www.pullapprove.com) - Allows for fancier rules on how pull requests are approved.
-- [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot
-- [pull-review](https://github.com/imsky/pull-review) - assign pull request reviewers intelligently, inspired by mention-bot
+- [sentinel](https://github.com/habitat-sh/sentinel) - PR test, review, and merge workflow bot.
+- [pull-review](https://github.com/imsky/pull-review) - Assign pull request reviewers intelligently, inspired by mention-bot.
 - [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a Pull Request.
-- [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
-- [Danger](https://danger.systems/) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+- [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries).
+- [Danger](https://danger.systems/) - Runs during your CI process, and gives teams the chance to automate common code review chores.
 - [Reviewable](https://reviewable.io/) - GitHub code reviews done right. Features like side-by-side diffs, real-time collaboration, and batch actions.
 - [CodeClimate](https://codeclimate.com/) - Get automated code review for test coverage, maintainability and more so that you can save time and merge with confidence.
 
@@ -26,7 +26,7 @@ CI/CD platforms and tools.
 - [Screwdriver](https://screwdriver.cd/) - Open source build platform designed for Continuous Delivery.
 - [Spinnaker](https://spinnaker.io/) - Multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [Tekton](https://tekton.dev/) - Powerful and flexible open source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
-- [Travis CI](https://www.travis-ci.com/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket
+- [Travis CI](https://www.travis-ci.com/) - A hosted continuous integration service used to build and test software projects hosted at GitHub and Bitbucket.
 - [CircleCI](https://circleci.com/) - Cloud-native CI/CD platform that helps developers build, test, and deploy software faster and more reliably.
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - GitLab's built-in continuous integration, delivery, and deployment capabilities.
 - [Buildkite](https://buildkite.com/) - Run fast, secure, and scalable continuous integration pipelines on your own infrastructure.
@@ -69,7 +69,7 @@ Tools for managing GitHub organizations and repositories.
 - [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [Grit](https://github.com/grailbio/grit) - A tool to mirror monorepo subtrees to GitHub.
 - [Sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite.
-- [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies
+- [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) - Identify open issues across all of your dependencies.
 - [Steampipe GitHub Plugin](https://hub.steampipe.io/plugins/turbot/github) - Query GitHub Repositories, Organizations, and other resources with SQL.
 - [Powerpipe GitHub Sherlock Mod](https://hub.powerpipe.io/mods/turbot/steampipe-mod-github-sherlock) - Interrogate your GitHub resource configurations to identify improvements based on best practices.
 - [(Corporate) Git Proxy](https://github.com/finos/git-proxy) - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
@@ -188,7 +188,7 @@ Security scanning and vulnerability management tools.
 - [Semgrep](https://semgrep.dev/) - A fast, open-source, static analysis tool for finding bugs, security issues, and anti-patterns in code.
 - [CodeQL](https://securitylab.github.com/tools/codeql/) - GitHub's semantic code analysis engine for finding security vulnerabilities.
 - [Trivy](https://github.com/aquasecurity/trivy) - A comprehensive security scanner for vulnerabilities in container images, file systems, and Git repositories.
-- [Gitleaks](https://github.com/zricethezav/gitleaks) - A tool for detecting and preventing secrets in git repos.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) - A tool for detecting and preventing secrets in Git repos.
 
 ## In-Kind Donations
 
@@ -205,7 +205,7 @@ The following organizations have formal or informal programs for offering in-kin
 
 ## OSPO Resources
 
-- [TODO Group](https://todogroup.org/) - TODO Group is an open group of companies who want to collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices.
+- [TODO Group](https://todogroup.org/) - The TODO Group is an open group of companies who want to collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices.
 - [OSPO 101](https://github.com/todogroup/ospo101) - A course on open source program offices for developers who want to make the most out of open source in their organization.
 - [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) - A mind map of the Open Source Program Office (OSPO) responsibilities, organized by the OSPO responsibilities.
 - [OSPO Survey](https://www.linuxfoundation.org/research/) - Annual survey by The Linux Foundation on the state of open source program offices.
